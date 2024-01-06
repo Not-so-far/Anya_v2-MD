@@ -105,15 +105,15 @@ module.exports = {
 
 
 // Ignore them 👇🏻
-global.botname = process.env.BotName || "𝙂𝞒𝞦𝝯𝞢" 
-global.author = process.env.Author || "@GRXVEBotz" 
-global.packname = process.env.PackName || "𝙂𝞒𝞦𝝯𝞢" 
+global.botname = process.env.BotName || "𝞒𝙔𝙐𝞗𝞙𝞘𝞘𝞜" 
+global.author = process.env.Author || "@PikaBotz" 
+global.packname = process.env.PackName || "𝞒𝙔𝙐𝞗𝞙𝞘𝞘𝞜" 
 global.myweb = process.env.Web || "https://github.com/PikaBotz" 
-global.footer = process.env.Footer || "© 𝙂𝞒𝞦𝝯𝞢" 
-global.prefa = process.env.Prefix || ['-'] 
+global.footer = process.env.Footer || "© RYUOKIIN" 
+global.prefa = process.env.Prefix || ['!'] 
 global.themeemoji = process.env.ThemeEmoji || "🎐" 
 global.ownername = process.env.Owner_Name || "𝙂𝞒𝞦𝝯𝞢~sama" 
-global.ownernumber = process.env.Owner_Number || "918402887115" 
+global.ownernumber = process.env.Owner_Number || "918638238336" 
 global.adress = process.env.Continent || "Asia, India, Assam" 
 global.timezone = process.env.TimeZone || "Asia/Kolkata" 
 global.instagramId = process.env.Insta || "8.08_only_mine" 
